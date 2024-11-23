@@ -281,6 +281,10 @@ h1, h2, h3{
     
  
 }
+
+.project-section p{
+    text-align: left;
+}
 @media (max-width: 600px){
 
     .project-section{
@@ -305,7 +309,7 @@ h1, h2, h3{
     justify-content:space-around;
     border-radius: 5vh;
     height: 400px;
-    width:200px;
+    width:400px;
     
 }
 
@@ -462,6 +466,7 @@ h1, h2, h3{
 }
 
 .bio{
+    border: none;
     display: flex;
     align-items: center;
     justify-content: center;
