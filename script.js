@@ -7,7 +7,7 @@ const placeholder = document.getElementById('search-effect');
 
 // Check if the element exists before running the typing effect
 if (placeholder) {
-    const words = ["Software Developer", "UX Designer", "Creative", "Artist", "Cook"];
+    const words = ["Your Next Software Developer", "UX Designer", "Creative Thinker", "Artist"];
     const fonts = ["font1", "font2", "font3", "font4", "font5"];
 
     let wordIndex = 0;
